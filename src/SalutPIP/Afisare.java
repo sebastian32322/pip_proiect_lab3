@@ -7,6 +7,8 @@ public class Afisare {
 		
 		System.out.println("modificare ora 19:14");
 
+//comentariu folosit la branch-ul "prima_ramura"
+
 	}
 
 }
